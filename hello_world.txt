@@ -1,1 +1,3 @@
 Hello World!
+
+Adding more information to this .txt to test the VS code commit option.
